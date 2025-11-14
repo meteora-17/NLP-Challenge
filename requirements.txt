@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+peft
+evaluate
+numpy
+huggingface_hub
+jupyterlab
+nbconvert
